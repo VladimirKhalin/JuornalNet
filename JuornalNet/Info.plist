@@ -7,5 +7,7 @@
 		<string>SFPro-Regular.ttf</string>
 		<string>SFPro.ttf</string>
 	</array>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 </dict>
 </plist>

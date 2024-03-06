@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		12B8AC5B2B97244E0018632A /* JuornalNetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B8AC5A2B97244E0018632A /* JuornalNetApp.swift */; };
 		12B8AC5D2B97244E0018632A /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B8AC5C2B97244E0018632A /* SplashView.swift */; };
-		12B8AC5F2B9724500018632A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12B8AC5E2B9724500018632A /* Assets.xcassets */; };
 		12B8AC622B9724500018632A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12B8AC612B9724500018632A /* Preview Assets.xcassets */; };
 		12B8AC6A2B9725F50018632A /* ArticalListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B8AC692B9725F50018632A /* ArticalListModel.swift */; };
 		12B8AC6C2B9726000018632A /* EventListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B8AC6B2B9726000018632A /* EventListModel.swift */; };
@@ -44,13 +43,13 @@
 		12B8ACBE2B982CE00018632A /* SFPro.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 12B8ACBC2B982CE00018632A /* SFPro.ttf */; };
 		12B8ACC32B982D850018632A /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B8ACC22B982D850018632A /* StartView.swift */; };
 		12B8ACC52B982E390018632A /* EmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12B8ACC42B982E390018632A /* EmptyView.swift */; };
+		12B8ACC72B9898AB0018632A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12B8ACC62B9898AB0018632A /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		12B8AC572B97244E0018632A /* JuornalNet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JuornalNet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		12B8AC5A2B97244E0018632A /* JuornalNetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuornalNetApp.swift; sourceTree = "<group>"; };
 		12B8AC5C2B97244E0018632A /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
-		12B8AC5E2B9724500018632A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		12B8AC612B9724500018632A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		12B8AC692B9725F50018632A /* ArticalListModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticalListModel.swift; sourceTree = "<group>"; };
 		12B8AC6B2B9726000018632A /* EventListModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventListModel.swift; sourceTree = "<group>"; };
@@ -84,6 +83,7 @@
 		12B8ACBF2B982D000018632A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		12B8ACC22B982D850018632A /* StartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
 		12B8ACC42B982E390018632A /* EmptyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmptyView.swift; sourceTree = "<group>"; };
+		12B8ACC62B9898AB0018632A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +126,7 @@
 				12B8AC8D2B9735690018632A /* Modifiers */,
 				12B8ACBA2B982CE00018632A /* Fonts */,
 				12B8AC602B9724500018632A /* Preview Content */,
+				12B8ACC62B9898AB0018632A /* Assets.xcassets */,
 				12B8ACBF2B982D000018632A /* Info.plist */,
 			);
 			path = JuornalNet;
@@ -134,7 +135,6 @@
 		12B8AC602B9724500018632A /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				12B8AC5E2B9724500018632A /* Assets.xcassets */,
 				12B8AC612B9724500018632A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -335,9 +335,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12B8ACC72B9898AB0018632A /* Assets.xcassets in Resources */,
 				12B8AC622B9724500018632A /* Preview Assets.xcassets in Resources */,
 				12B8ACBD2B982CE00018632A /* SFPro-Regular.ttf in Resources */,
-				12B8AC5F2B9724500018632A /* Assets.xcassets in Resources */,
 				12B8ACBE2B982CE00018632A /* SFPro.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -438,7 +438,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -495,7 +495,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -510,6 +510,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JuornalNet/Preview Content\"";
@@ -517,11 +518,12 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = JuornalNet/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Juornal Net";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -530,9 +532,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = VK.JuornalNet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -541,6 +547,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"JuornalNet/Preview Content\"";
@@ -548,11 +555,12 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = JuornalNet/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Juornal Net";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -561,9 +569,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = VK.JuornalNet;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
