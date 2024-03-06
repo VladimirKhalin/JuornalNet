@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Article/ArticlesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Articles"
+      },
+      {
+        "comment": "",
+        "key": "No articles added"
+      },
+      {
+        "comment": "",
+        "key": "Add an article with the plus icon above"
+      }
+    ]
+  },
+  "version": 1
+}

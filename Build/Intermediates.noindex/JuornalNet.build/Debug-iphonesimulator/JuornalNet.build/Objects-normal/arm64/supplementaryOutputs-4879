@@ -1,0 +1,18 @@
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/View/SplashView.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/SplashView.d"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/SplashView.swiftdeps"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/SplashView.o"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/SplashView.swiftconstvalues"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/SplashView.dia"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Article/ArticlesView.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.swiftconstvalues"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.swiftdeps"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.o"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.dia"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.d"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/EditCommentView.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EditCommentView.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EditCommentView.o"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EditCommentView.swiftconstvalues"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EditCommentView.dia"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EditCommentView.swiftdeps"

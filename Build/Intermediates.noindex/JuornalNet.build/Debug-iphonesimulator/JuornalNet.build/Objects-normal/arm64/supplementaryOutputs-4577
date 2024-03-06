@@ -1,0 +1,18 @@
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Article/ArticleEditView.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticleEditView.swiftconstvalues"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticleEditView.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticleEditView.dia"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticleEditView.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticleEditView.swiftdeps"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Realm Models/EventListModel.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EventListModel.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EventListModel.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EventListModel.swiftdeps"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EventListModel.swiftconstvalues"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/EventListModel.dia"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/JuornalNetApp.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/JuornalNetApp.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/JuornalNetApp.o"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/JuornalNetApp.swiftconstvalues"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/JuornalNetApp.swiftdeps"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/JuornalNetApp.dia"

@@ -1,0 +1,18 @@
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Post/AddPostModalView.swift":
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddPostModalView.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddPostModalView.swiftdeps"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddPostModalView.swiftconstvalues"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddPostModalView.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddPostModalView.dia"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Article/ArticlesView.swift":
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.swiftdeps"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.dia"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.o"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/ArticlesView.swiftconstvalues"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Article/AddArticleModalView.swift":
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddArticleModalView.dia"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddArticleModalView.swiftconstvalues"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddArticleModalView.swiftdeps"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddArticleModalView.o"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddArticleModalView.d"

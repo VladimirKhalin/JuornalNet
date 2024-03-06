@@ -1,0 +1,18 @@
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/DerivedSources/GeneratedAssetSymbols.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/AddEventCommitModalView.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventCommitModalView.swiftconstvalues"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventCommitModalView.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventCommitModalView.dia"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventCommitModalView.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventCommitModalView.swiftdeps"
+"/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/AddEventModalView.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventModalView.swiftconstvalues"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventModalView.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventModalView.swiftdeps"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventModalView.dia"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddEventModalView.d"

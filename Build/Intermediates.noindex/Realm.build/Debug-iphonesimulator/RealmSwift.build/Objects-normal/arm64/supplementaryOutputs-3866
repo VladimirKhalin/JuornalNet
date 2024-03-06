@@ -1,0 +1,36 @@
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/CollectionAccess.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CollectionAccess.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CollectionAccess.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CollectionAccess.swiftdeps"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CollectionAccess.swiftconstvalues"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CollectionAccess.dia"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/ComplexTypes.swift":
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ComplexTypes.swiftdeps"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ComplexTypes.o"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ComplexTypes.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ComplexTypes.dia"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ComplexTypes.swiftconstvalues"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/Persistable.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Persistable.swiftconstvalues"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Persistable.dia"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Persistable.d"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Persistable.swiftdeps"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Persistable.o"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/BasicTypes.swift":
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.dia"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.swiftdeps"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.swiftconstvalues"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.o"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.d"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/ObjcBridgeable.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.swiftconstvalues"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.swiftdeps"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/ObjcBridgeable.dia"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/KeyPathStrings.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.d"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.swiftconstvalues"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.dia"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/KeyPathStrings.swiftdeps"

@@ -1,0 +1,4 @@
+module s2geometry {
+umbrella "/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/external/s2"
+export *
+}

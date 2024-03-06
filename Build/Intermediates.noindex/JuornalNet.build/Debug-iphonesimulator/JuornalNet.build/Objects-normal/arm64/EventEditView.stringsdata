@@ -1,0 +1,24 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/EventEditView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%@ VS %@"
+      },
+      {
+        "comment": "",
+        "key": "Add comment"
+      },
+      {
+        "comment": "",
+        "key": "Delite event"
+      },
+      {
+        "comment": "",
+        "key": ":"
+      }
+    ]
+  },
+  "version": 1
+}

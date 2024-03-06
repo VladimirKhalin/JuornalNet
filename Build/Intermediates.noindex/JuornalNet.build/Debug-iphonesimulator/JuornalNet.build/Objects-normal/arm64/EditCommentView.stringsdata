@@ -1,0 +1,16 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/EditCommentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit comment"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      }
+    ]
+  },
+  "version": 1
+}

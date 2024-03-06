@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Post/PostsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Posts"
+      },
+      {
+        "comment": "",
+        "key": "No posts added"
+      },
+      {
+        "comment": "",
+        "key": "You don't have any posts added"
+      }
+    ]
+  },
+  "version": 1
+}

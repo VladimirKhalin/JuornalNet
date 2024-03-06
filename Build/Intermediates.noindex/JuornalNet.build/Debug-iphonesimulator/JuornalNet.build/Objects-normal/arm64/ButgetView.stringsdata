@@ -1,0 +1,28 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Butget/ButgetView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Budget"
+      },
+      {
+        "comment": "",
+        "key": "Income"
+      },
+      {
+        "comment": "",
+        "key": "Expenses"
+      },
+      {
+        "comment": "",
+        "key": "New income"
+      },
+      {
+        "comment": "",
+        "key": "New expenses"
+      }
+    ]
+  },
+  "version": 1
+}

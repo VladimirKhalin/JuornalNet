@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameArticleCellBg</string>
+			<key>relativePath</key>
+			<string>./article_cell_bg.colorset</string>
+			<key>swiftSymbol</key>
+			<string>articleCellBg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBackground</string>
+			<key>relativePath</key>
+			<string>./background.colorset</string>
+			<key>swiftSymbol</key>
+			<string>background</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameBg</string>
+			<key>relativePath</key>
+			<string>./bg.colorset</string>
+			<key>swiftSymbol</key>
+			<string>bg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCardBg</string>
+			<key>relativePath</key>
+			<string>./card_bg.colorset</string>
+			<key>swiftSymbol</key>
+			<string>cardBg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameGreenBg</string>
+			<key>relativePath</key>
+			<string>./green_bg.colorset</string>
+			<key>swiftSymbol</key>
+			<string>greenBg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameRedBg</string>
+			<key>relativePath</key>
+			<string>./red_bg.colorset</string>
+			<key>swiftSymbol</key>
+			<string>redBg</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameScreenBg</string>
+			<key>relativePath</key>
+			<string>./screen_bg.colorset</string>
+			<key>swiftSymbol</key>
+			<string>screenBg</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImg1</string>
+			<key>relativePath</key>
+			<string>./img1.imageset</string>
+			<key>swiftSymbol</key>
+			<string>img1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImg2</string>
+			<key>relativePath</key>
+			<string>./img2.imageset</string>
+			<key>swiftSymbol</key>
+			<string>img2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameImg3</string>
+			<key>relativePath</key>
+			<string>./img3.imageset</string>
+			<key>swiftSymbol</key>
+			<string>img3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLogo</string>
+			<key>relativePath</key>
+			<string>./logo.imageset</string>
+			<key>swiftSymbol</key>
+			<string>logo</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

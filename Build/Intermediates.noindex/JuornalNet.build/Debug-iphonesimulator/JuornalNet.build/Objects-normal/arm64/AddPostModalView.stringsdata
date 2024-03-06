@@ -1,0 +1,36 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Post/AddPostModalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New post"
+      },
+      {
+        "comment": "",
+        "key": "Post title"
+      },
+      {
+        "comment": "",
+        "key": "Post"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Attention!"
+      },
+      {
+        "comment": "",
+        "key": "Not all fields are filled in"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

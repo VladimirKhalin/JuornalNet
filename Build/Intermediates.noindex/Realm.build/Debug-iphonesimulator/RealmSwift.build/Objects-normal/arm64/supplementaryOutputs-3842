@@ -1,0 +1,42 @@
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Error.swift":
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Error.dia"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Error.swiftconstvalues"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Error.o"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Error.d"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Error.swiftdeps"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Geospatial.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Geospatial.swiftconstvalues"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Geospatial.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Geospatial.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Geospatial.swiftdeps"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Geospatial.dia"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/EmbeddedObject.swift":
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.swiftdeps"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.dia"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.o"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/EmbeddedObject.swiftconstvalues"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Decimal128.swift":
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Decimal128.dia"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Decimal128.swiftdeps"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Decimal128.swiftconstvalues"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Decimal128.o"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Decimal128.d"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Impl/BasicTypes.swift":
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.dia"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.o"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.swiftdeps"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.swiftconstvalues"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/BasicTypes.d"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/CustomPersistable.swift":
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CustomPersistable.d"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CustomPersistable.dia"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CustomPersistable.o"
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CustomPersistable.swiftconstvalues"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/CustomPersistable.swiftdeps"
+"/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/RealmSwift/Events.swift":
+  const-values: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Events.swiftconstvalues"
+  swift-dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Events.swiftdeps"
+  dependencies: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Events.d"
+  object: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Events.o"
+  diagnostics: "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Realm.build/Debug-iphonesimulator/RealmSwift.build/Objects-normal/arm64/Events.dia"

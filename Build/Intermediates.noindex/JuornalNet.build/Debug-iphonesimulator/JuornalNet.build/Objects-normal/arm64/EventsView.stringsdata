@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/EventsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Events"
+      },
+      {
+        "comment": "",
+        "key": "No event added"
+      },
+      {
+        "comment": "",
+        "key": "Add an event with the plus icon above"
+      }
+    ]
+  },
+  "version": 1
+}

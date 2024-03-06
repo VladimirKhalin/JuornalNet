@@ -1,0 +1,43 @@
+dependencies: \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/Realm/RLMFindOptions.mm \
+  /Users/vladimirkhalin/Desktop/Xcode\ PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Previews/JuornalNet/Intermediates.noindex/Realm.build/Debug-iphonesimulator/Realm.build/DerivedSources/resource_bundle_accessor.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/Realm/RLMFindOptions_Private.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/include/Realm/RLMFindOptions.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/include/Realm/RLMConstants.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/object-store/sync/mongo_collection.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bson/bson.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bson/indexed_map.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bson/regular_expression.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bson/min_key.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bson/max_key.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bson/mongo_timestamp.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/binary_data.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/owned_data.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/assert.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/features.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/terminate.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/to_string.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/optional.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/version.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/utilities.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/functional.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/type_traits.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/safe_int_ops.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/timestamp.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/null.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/exceptions.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/status.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/error_codes.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/error_codes.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/util/bind_ptr.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/decimal128.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/string_data.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/Realm/null.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/object_id.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/realm/uuid.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/Realm/RLMBSON_Private.hpp \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/include/Realm/RLMBSON.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/include/Realm/RLMObjectId.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/include/Realm/RLMDecimal128.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/Realm/RLMCollection.h \
+  /Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-swift?ysclid=lte7zijx4w871101143/include/Realm/RLMThreadSafeReference.h

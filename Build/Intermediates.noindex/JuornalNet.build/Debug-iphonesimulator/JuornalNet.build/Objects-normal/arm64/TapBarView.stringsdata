@@ -1,0 +1,28 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TapBar/TapBarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Articles"
+      },
+      {
+        "comment": "",
+        "key": "Events"
+      },
+      {
+        "comment": "",
+        "key": "Butget"
+      },
+      {
+        "comment": "",
+        "key": "Posts"
+      },
+      {
+        "comment": "",
+        "key": "Settings"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/AddEventCommitModalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Add new comment"
+      },
+      {
+        "comment": "",
+        "key": "You comment:"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      }
+    ]
+  },
+  "version": 1
+}

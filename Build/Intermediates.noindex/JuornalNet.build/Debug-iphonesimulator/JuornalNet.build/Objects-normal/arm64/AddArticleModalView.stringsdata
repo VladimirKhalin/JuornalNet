@@ -1,0 +1,48 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Article/AddArticleModalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New article"
+      },
+      {
+        "comment": "",
+        "key": "Headline"
+      },
+      {
+        "comment": "",
+        "key": "Publisher"
+      },
+      {
+        "comment": "",
+        "key": "Status:"
+      },
+      {
+        "comment": "",
+        "key": "Status"
+      },
+      {
+        "comment": "",
+        "key": "Article"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      },
+      {
+        "comment": "",
+        "key": "Attention!"
+      },
+      {
+        "comment": "",
+        "key": "Not all fields are filled in"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

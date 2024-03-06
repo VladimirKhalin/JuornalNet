@@ -1,0 +1,28 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Settings/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Settings"
+      },
+      {
+        "comment": "",
+        "key": "Reset Confirmation"
+      },
+      {
+        "comment": "",
+        "key": "Your progress will be permanently reset. \n Do you really want to delite all data?"
+      },
+      {
+        "comment": "",
+        "key": "Reset"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,36 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/Build/Intermediates.noindex/Previews/JuornalNet/Intermediates.noindex/JuornalNet.build/Debug-iphonesimulator/JuornalNet.build/Objects-normal/arm64/AddArticleModalView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New article"
+      },
+      {
+        "comment": "",
+        "key": "Headline"
+      },
+      {
+        "comment": "",
+        "key": "Publisher"
+      },
+      {
+        "comment": "",
+        "key": "Article text"
+      },
+      {
+        "comment": "",
+        "key": "Status:"
+      },
+      {
+        "comment": "",
+        "key": "Status"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      }
+    ]
+  },
+  "version": 1
+}

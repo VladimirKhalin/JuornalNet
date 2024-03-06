@@ -1,0 +1,4 @@
+module Bid {
+umbrella "/Volumes/MacMiniTools/XCode/JuornalNet-cbxnzsahrpqztsbiruirkjjajrnn/SourcePackages/checkouts/realm-core/src/external/IntelRDFPMathLib20U2/LIBRARY/src"
+export *
+}

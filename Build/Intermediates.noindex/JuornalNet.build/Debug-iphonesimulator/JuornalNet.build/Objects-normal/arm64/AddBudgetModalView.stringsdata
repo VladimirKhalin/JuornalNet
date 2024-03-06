@@ -1,0 +1,44 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Butget/AddBudgetModalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New income"
+      },
+      {
+        "comment": "",
+        "key": "New expense"
+      },
+      {
+        "comment": "",
+        "key": "Title"
+      },
+      {
+        "comment": "",
+        "key": "Date"
+      },
+      {
+        "comment": "",
+        "key": "Sum"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Attention!"
+      },
+      {
+        "comment": "",
+        "key": "Not all fields are filled in"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}

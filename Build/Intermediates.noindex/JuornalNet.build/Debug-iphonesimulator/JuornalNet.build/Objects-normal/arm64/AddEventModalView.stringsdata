@@ -1,0 +1,48 @@
+{
+  "source": "/Users/vladimirkhalin/Desktop/Xcode PR/Swiftbook/JuornalNet/JuornalNet/TabBarView/Events/AddEventModalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New event"
+      },
+      {
+        "comment": "",
+        "key": "Subtitle"
+      },
+      {
+        "comment": "",
+        "key": "Team 01"
+      },
+      {
+        "comment": "",
+        "key": "Team Score"
+      },
+      {
+        "comment": "",
+        "key": "Team 02"
+      },
+      {
+        "comment": "",
+        "key": "Date"
+      },
+      {
+        "comment": "",
+        "key": "Add"
+      },
+      {
+        "comment": "",
+        "key": "Attention!"
+      },
+      {
+        "comment": "",
+        "key": "Not all fields are filled in"
+      },
+      {
+        "comment": "",
+        "key": "OK"
+      }
+    ]
+  },
+  "version": 1
+}
